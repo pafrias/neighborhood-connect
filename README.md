@@ -51,4 +51,5 @@ Repository for Neighborhood Connect
 
 |Name |Version |Date |Description |
 |:- |:- |:- |:- |
+|[@pafrias](https://github.com/code4sac) |0.1.0 |Jul-16-2019 |Implement MVC framework, event router file, ready for DBMS
 |[@pafrias](https://github.com/code4sac) |0.1.0        |Jul-10-2019 |Begin sketching out CRUD routes for events and admin users.
