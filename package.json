@@ -1,0 +1,25 @@
+{
+  "name": "neighborhood-connect",
+  "version": "0.1.0",
+  "description": "Progressive Web Application connecting citizens with their city leaders, to help communicate priorities for their neighborhoods, and organize events to better communities.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pafrias/neighborhood-connect.git"
+  },
+  "keywords": [
+    "neicon",
+    "neighboorhood",
+    "connection",
+    "civic"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pafrias/neighborhood-connect/issues"
+  },
+  "homepage": "https://github.com/pafrias/neighborhood-connect#readme"
+}
